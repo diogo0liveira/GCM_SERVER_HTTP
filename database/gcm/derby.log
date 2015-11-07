@@ -1,0 +1,31 @@
+Sat Nov 07 10:12:10 BRST 2015 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Sat Nov 07 10:13:50 BRST 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0150-e1dc-684c-0000407fa3e1
+no diretório de banco de dados C:\Users\diogo\.netbeans-derby\gcm\GCM 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=C:\Users\diogo\.netbeans-derby\gcm
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Nov 07 10:13:55 BRST 2015:
+Encerrando a instância a816c00e-0150-e1dc-684c-0000407fa3e1
+Sat Nov 07 10:13:55 BRST 2015 Thread[DRDAConnThread_3,5,main] (DATABASE = GCM), (DRDAID = {2}), Banco de dados 'GCM' fechado.
+----------------------------------------------------------------
+Sat Nov 07 10:14:00 BRST 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 560740aa-0150-e1dc-684c-0000407fa3e1
+no diretório de banco de dados C:\Users\diogo\.netbeans-derby\gcm\GCM 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=C:\Users\diogo\.netbeans-derby\gcm
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
