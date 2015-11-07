@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>GCM HTTP</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div><h1>GCM HTTP SERVER EM EXECUÇÃO...</h1></div>
+
+        <form action="EnviaMensagemServlet" method="POST">
+            <fieldset style="padding: 30px">
+                <legend>Enviar mensagem para devices:</legend>
+                REGISTRATION ID:<br>
+                <input type="text" name="inputRegistrationId" style="width: 70%">
+                <br><br>
+                MENSAGEM:<br>
+                <textarea name="inputMensagem" style="width: 70%; height: 100px"></textarea>
+                <br><br>
+                <input type="submit" value="ENVIAR" style="width: 150px; height: 30px">
+            </fieldset>
+        </form>
+    </body>
+</html>
